@@ -11,3 +11,5 @@ Address: Manelil House
 Education:
  	SSLC	HSS Valayanchirangara	2010
 	Plus2	Boys Hss perumbavoor	2012
+Hobbies:
+	Reading
