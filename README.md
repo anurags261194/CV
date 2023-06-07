@@ -14,3 +14,6 @@ Education:
 Hobbies:
 	Reading
 	Cricket
+	Football
+	Tennis
+	Swimming
