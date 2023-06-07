@@ -13,3 +13,4 @@ Education:
 	Plus2	Boys Hss perumbavoor	2012
 Hobbies:
 	Reading
+	Cricket
